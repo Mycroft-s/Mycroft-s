@@ -19,8 +19,9 @@
 
 <!-- Language stats (auto-updating) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycroft-s&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycroft-s&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
+
 
 <!-- Tech icons -->
 <p align="center">
