@@ -66,7 +66,7 @@
   <!-- Streak Stats -->
   <h3>🔥 Streak Stats</h3>
   <p align="center">
-    <img alt="Hongdao Meng's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
 
   <!-- GitHub Profile Stats & Top Languages -->
