@@ -118,12 +118,4 @@
 
 <br/>
 
-<!-- Holopin Badges (如果你有的话) -->
-<details>
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-  <p align="center">
-    <a href="https://holopin.io/@hongdaomeng">
-      <img src="https://holopin.me/hongdaomeng" alt="@hongdaomeng's Holopin board"/>
-    </a>
-  </p>
-</details>
+
