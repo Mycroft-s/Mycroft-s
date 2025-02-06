@@ -11,7 +11,14 @@
 
 <!-- Third-person Self Introduction -->
 <p align="center">
-  Hongdao Meng is a Master’s student in Computer Science at New York University with expertise in machine learning and software development. With professional experience in optimizing trading systems, developing AI solutions, and leading DeepFake detection projects, he has a proven track record of innovation. His research on federated learning and multi-view classification, published in IEEE Transaction on Big Data, further underscores his technical acumen. Meanwhile, he is also a photographer, you can find his works on his Instagram or Xiaohongshu.
+A first year graduate student in the NYU Tandon who major in Computer Science. Seeking SDE/MLE intern for 2025 summer.
+🔭 Hongdao Meng is a Master’s student in Computer Science at New York University, specializing in machine learning, data engineering, and software development.  
+🔬 He has professional experience in Multiview Multilabel Machine Learning,RAG systems, developing AI solutions, and leading DeepFake detection projects—demonstrating a proven track record of innovation.  
+📚 His research on federated learning and multi-view classification has been published in IEEE Transactions on Big Data. (https://ieeexplore.ieee.org/document/10816109) 
+📸 Besides his technical pursuits, he is also a passionate photographer; you can explore his creative works on Instagram or Xiaohongshu.  
+📫 How to reach him: mycrofthd@gmail.com | Visit his blog and portfolio for more details.
+
+
 
 
 </p>
