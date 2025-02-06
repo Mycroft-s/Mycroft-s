@@ -1,82 +1,129 @@
-<!-- 顶部装饰性标题区域 -->
-<div align="center" style="background-color: #c0392b; color: white; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
-  <h1 style="margin: 5px;">👋 Hi there, I'm Hongdao Meng</h1>
-  <h3 style="margin: 5px;">A passionate full-stack developer from China</h3>
-</div>
+<!-- Profile Header with Profile Picture -->
+<p align="center">
+  <a href="https://github.com/Mycroft-s">
+    <!-- 此处使用 GitHub 头像（可根据需要更换为自己的头像链接） -->
+    <img src="https://avatars.githubusercontent.com/Mycroft-s" alt="Hongdao Meng" width="150" style="border-radius: 50%;"/>
+  </a>
+</p>
 
-<p align="center" style="margin: 5px;">
+<!-- Typing SVG -->
+<p align="center">
+  <!-- 使用 readme-typing-svg 动态打字效果 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Passionate%20about%20coding;Innovating%20with%20technology;Always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- Social Icons Section -->
+<p align="center">
+  <a href="https://github.com/Mycroft-s">
+    <img width="32" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </a>
+  &#8287;&#8287;
   <a href="https://linkedin.com/in/hongdao-meng-70222b306">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="32" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
+  &#8287;&#8287;
   <a href="mailto:mycrofthd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img width="32" alt="Email" title="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg"/>
   </a>
+  &#8287;&#8287;
   <a href="https://menghongdao.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+    <img width="32" alt="Blog" title="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
 
-<hr style="border: none; margin: 5px auto;">
+<br/>
 
-### 🛠 Tech Stack
-
-<p align="center" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycroft-s&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="Top Languages"/>
+<!-- Social Badges (动态指标) -->
+<p align="center">
+  [![GitHub followers](https://img.shields.io/github/followers/Mycroft-s?label=Follow&style=social)](https://github.com/Mycroft-s)
+  [![GitHub stars](https://img.shields.io/github/stars/Mycroft-s?style=social)](https://github.com/Mycroft-s)
+  [![Profile views](https://komarev.com/ghpvc/?username=Mycroft-s&style=flat-square)](https://github.com/Mycroft-s)
 </p>
 
-<p align="center" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,vue,nodejs,aws,docker,git,github,linux,mysql,redis&perline=7" alt="Tech Icons" />
-</p>
+<br/>
 
-<hr style="border: none; margin: 5px auto;">
+<!-- Featured Projects -->
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+  <p align="center">
+    <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection"/>
+    </a>
+    <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods"/>
+    </a>
+  </p>
+</details>
 
-### ⚡ Recent Activity
+<br/>
 
-<!-- 使用表格并排显示 GitHub Stats 与 Streak 卡片 -->
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&hide_border=true&background=fffaf0&ring=f1c40f&fire=f1c40f&currStreakNum=c0392b&sideNums=c0392b" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-<p align="center" style="margin: 5px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mycroft-s&hide_border=true&bg_color=fffaf0&color=c0392b&line=c0392b&point=c0392b" alt="Activity Graph" />
-</p>
+<!-- GitHub Stats and Activity -->
+<details open>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<hr style="border: none; margin: 5px auto;">
+  <!-- Streak Stats -->
+  <h3>🔥 Streak Stats</h3>
+  <p align="center">
+    <img alt="Hongdao Meng's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+  </p>
 
-### 📝 Latest Blog Posts
+  <!-- GitHub Profile Stats & Top Languages -->
+  <h3>💻 GitHub Profile Stats</h3>
+  <p align="center">
+    <img alt="Hongdao Meng's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mycroft-s&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" />
+    <img alt="Hongdao Meng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycroft-s&langs_count=8&layout=compact&theme=react&hide_border=true" />
+  </p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Example Blog Post](https://yourblog.com/example-post) - Jan 1, 2025
-- [Another Blog Post](https://yourblog.com/another-post) - Dec 25, 2024
-<!-- BLOG-POST-LIST:END -->
+  <!-- Activity Graph -->
+  <h3>⚡ Activity Graph</h3>
+  <p align="center">
+    <img alt="Hongdao Meng's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mycroft-s&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </p>
+</details>
 
-<hr style="border: none; margin: 5px auto;">
+<br/>
 
-### 🚀 Featured Projects
+<!-- Latest Blog Posts -->
+<details open>
+  <summary><h2>📝 Latest Blog Posts</h2></summary>
+  <!-- 此处内容可通过 GitHub Actions 自动更新 -->
+  <ul>
+    <li><a href="https://menghongdao.com/blog-post-1">Example Blog Post 1</a> - Jan 1, 2025</li>
+    <li><a href="https://menghongdao.com/blog-post-2">Example Blog Post 2</a> - Dec 25, 2024</li>
+  </ul>
+</details>
 
-<table align="center" style="margin: 5px;">
-  <tr>
-    <td width="50%" align="center" style="padding: 0 5px;">
-      <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="image_and_audio_deepfakededtection"/>
-      </a>
-    </td>
-    <td width="50%" align="center" style="padding: 0 5px;">
-      <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="Vertical-Federated-MVML-methods"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<hr style="border: none; margin: 5px auto;">
+<!-- My Favorite Tools -->
+<details>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  </p>
+</details>
 
-<p align="center" style="margin: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=Mycroft-s&color=f1c40f&style=flat-square" alt="Profile Views"/>
-</p>
+<br/>
+
+<!-- Holopin Badges (如果你有的话) -->
+<details>
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <p align="center">
+    <a href="https://holopin.io/@hongdaomeng">
+      <img src="https://holopin.me/hongdaomeng" alt="@hongdaomeng's Holopin board"/>
+    </a>
+  </p>
+</details>
