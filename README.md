@@ -17,29 +17,20 @@
 <!-- Social Icons Section -->
 <p align="center">
   <a href="https://linkedin.com/in/hongdao-meng-70222b306">
-    <img width="32" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img width="32" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
   </a>
   &#8287;&#8287;
   <a href="mailto:mycrofthd@gmail.com">
-    <img width="32" alt="Email" title="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg"/>
+    <img width="32" alt="Email" title="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
   </a>
   &#8287;&#8287;
   <a href="https://www.instagram.com/mycrofthd/">
-    <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+    <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
   </a>
 </p>
 
 
-<br/>
 
-<!-- Social Badges (动态指标) -->
-<p align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/Mycroft-s?label=Follow&style=social)](https://github.com/Mycroft-s)
-  [![GitHub stars](https://img.shields.io/github/stars/Mycroft-s?style=social)](https://github.com/Mycroft-s)
-  [![Profile views](https://komarev.com/ghpvc/?username=Mycroft-s&style=flat-square)](https://github.com/Mycroft-s)
-</p>
-
-<br/>
 
 <!-- Featured Projects -->
 <details open>
