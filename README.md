@@ -38,17 +38,16 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=FFD700&line_color=FFD700" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&hide_border=true&background=ffffff&ring=FFD700&fire=FFD700&currStreakNum=0366d6&sideNums=0366d6" alt="GitHub Streak" />
 
     </td>
   </tr>
 </table>
+
+   
 
 
 <!-- GitHub 活动图（自定义蓝白配色） -->
