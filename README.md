@@ -45,15 +45,22 @@
 <!-- Featured Projects -->
 <details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
-  <p align="center">
-    <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection"/>
-    </a>
-    <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods"/>
-    </a>
-  </p>
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
+          <img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
+          <img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
+
 
 <br/>
 
