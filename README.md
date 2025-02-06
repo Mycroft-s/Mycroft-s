@@ -37,7 +37,6 @@ JavaScript   ▰▰▰▰▰▰▰▰▱▱ 80%
 TypeScript   ▰▰▰▰▰▰▱▱▱▱ 60%
 Java         ▰▰▰▰▰▱▱▱▱▱ 50%
 
----
 
 ### 📊 GitHub Analytics
 
@@ -56,7 +55,7 @@ Java         ▰▰▰▰▰▱▱▱▱▱ 50%
   <img src="https://github-profile-3d-contrib.vercel.app/view?username=Mycroft-s&theme=radical" width="800"/>
 </p>
 
----
+
 
 ### 🚀 Featured Projects
 
@@ -75,7 +74,7 @@ Java         ▰▰▰▰▰▱▱▱▱▱ 50%
   </tr>
 </table>
 
----
+
 
 ### 📝 Latest Blog Posts
 <!-- Replace with your blog's RSS feed -->
@@ -83,8 +82,6 @@ Java         ▰▰▰▰▰▱▱▱▱▱ 50%
 [[BLOG_POST_TITLE_1]]([POST_URL]) - [DATE]  
 [[BLOG_POST_TITLE_2]]([POST_URL]) - [DATE]  
 [[BLOG_POST_TITLE_3]]([POST_URL]) - [DATE]  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mycroft-s&color=blueviolet&style=flat-square" alt="Profile views"/>
