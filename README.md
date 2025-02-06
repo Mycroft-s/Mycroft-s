@@ -29,8 +29,9 @@
   </a>
   &#8287;&#8287;
   <a href="https://www.xiaohongshu.com/user/profile/60269c88000000000100ab82">
-    <img width="32" alt="Xiaohongshu" title="Xiaohongshu" src="https://www.vectorlogo.zone/logos/xiaohongshu/xiaohongshu-icon.svg" />
-  </a>
+  <img width="32" alt="Xiaohongshu" title="Xiaohongshu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Xiaohongshu_logo.svg/32px-Xiaohongshu_logo.svg.png" />
+</a>
+
   &#8287;&#8287;
   <a href="https://space.bilibili.com/66771970?spm_id_from=333.1387.0.0">
     <img width="32" alt="Bilibili" title="Bilibili" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bilibili.svg" />
@@ -47,10 +48,10 @@
   <summary><h2>🚀 Featured Projects</h2></summary>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection" style="width:450px;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection" style="width:400px;" />
     </a>
     <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods" style="width:450px;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods" style="width:400px;" />
     </a>
   </div>
 </details>
