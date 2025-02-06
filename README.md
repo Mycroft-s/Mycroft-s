@@ -47,10 +47,10 @@
   <summary><h2>🚀 Featured Projects</h2></summary>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection" style="width:350px;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&theme=react&hide_border=true" alt="image_and_audio_deepfakededtection" style="width:450px;" />
     </a>
     <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods" style="width:350px;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&theme=react&hide_border=true" alt="Vertical-Federated-MVML-methods" style="width:450px;" />
     </a>
   </div>
 </details>
