@@ -8,7 +8,7 @@
   <a href="mailto:mycrofthd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourblog.com">
+  <a href="https://menghongdao.com">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
   </a>
 </p>
@@ -62,12 +62,12 @@ Replace the content below with an automated workflow or GitHub Action that parse
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Mycroft-s/Project1">
+      <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Project1&theme=radical" alt="Project1"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Mycroft-s/Project2">
+      <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Project2&theme=radical" alt="Project2"/>
       </a>
     </td>
