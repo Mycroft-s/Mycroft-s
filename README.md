@@ -33,17 +33,16 @@
 ### ⚡ Recent Activity
 
 <!-- 使用表格并排显示 GitHub Stats 与 Streak 卡片 -->
-<table align="center" style="margin: 5px;">
+<table align="center">
   <tr>
-    <td width="50%" align="center" style="padding: 0 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" style="padding: 0 5px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&hide_border=true" alt="GitHub Streak" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
 <p align="center" style="margin: 5px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mycroft-s&hide_border=true&bg_color=ffffff&color=0366d6&line=0366d6&point=0366d6" alt="Activity Graph" />
 </p>
