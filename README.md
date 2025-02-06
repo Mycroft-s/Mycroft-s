@@ -16,10 +16,6 @@
 
 <!-- Social Icons Section -->
 <p align="center">
-  <a href="https://github.com/Mycroft-s">
-    <img width="32" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-  &#8287;&#8287;
   <a href="https://linkedin.com/in/hongdao-meng-70222b306">
     <img width="32" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
@@ -28,10 +24,11 @@
     <img width="32" alt="Email" title="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg"/>
   </a>
   &#8287;&#8287;
-  <a href="https://menghongdao.com">
-    <img width="32" alt="Blog" title="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  <a href="https://www.instagram.com/mycrofthd/">
+    <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
   </a>
 </p>
+
 
 <br/>
 
