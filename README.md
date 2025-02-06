@@ -12,22 +12,7 @@
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
----
-### 💻 Tech Stack
 
-#### Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,aws,docker,git,github,linux,mysql,redis&perline=7"/>
-</p>
-
-#### Code Distribution
-```text
-Python       ▰▰▰▰▰▰▰▰▰▰ 90% 
-JavaScript   ▰▰▰▰▰▰▰▰▱▱ 80%
-TypeScript   ▰▰▰▰▰▰▱▱▱▱ 60%
-Java         ▰▰▰▰▰▱▱▱▱▱ 50%
-
----
 
 ---
 
