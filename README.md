@@ -9,6 +9,13 @@
   </a>
 </p>
 
+<!-- Third-person Self Introduction -->
+<p align="center">
+  Hongdao Meng is a Master’s student in Computer Science at New York University with expertise in machine learning and software development. With professional experience in optimizing trading systems, developing AI solutions, and leading DeepFake detection projects, he has a proven track record of innovation. His research on federated learning and multi-view classification, published in IEEE Transaction on Big Data, further underscores his technical acumen. Meanwhile, he is also a photographer, you can find his works on his Instagram or Xiaohongshu.
+
+
+</p>
+
 <!-- Social Icons Section -->
 <p align="center">
   <a href="https://linkedin.com/in/hongdao-meng-70222b306">
