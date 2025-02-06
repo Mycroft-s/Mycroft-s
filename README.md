@@ -1,10 +1,5 @@
 <!-- Profile Header with Profile Picture -->
-<p align="center">
-  <a href="https://github.com/Mycroft-s">
-    <!-- 此处使用 GitHub 头像（可根据需要更换为自己的头像链接） -->
-    <img src="https://avatars.githubusercontent.com/Mycroft-s" alt="Hongdao Meng" width="150" style="border-radius: 50%;"/>
-  </a>
-</p>
+
 
 <!-- Typing SVG -->
 <p align="center">
