@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
+---
 ### 💻 Tech Stack
 
 #### Languages & Tools
@@ -26,7 +27,7 @@ JavaScript   ▰▰▰▰▰▰▰▰▱▱ 80%
 TypeScript   ▰▰▰▰▰▰▱▱▱▱ 60%
 Java         ▰▰▰▰▰▱▱▱▱▱ 50%
 
-
+---
 
 ---
 
