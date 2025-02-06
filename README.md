@@ -33,16 +33,22 @@
 
 ### ⚡ Recent Activity
 
-<!-- GitHub stats and streaks -->
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mycroft-s&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
+
 
 ---
 
