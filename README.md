@@ -33,8 +33,8 @@
 
 <!-- GitHub stats and streaks -->
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub activity graph -->
