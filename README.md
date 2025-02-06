@@ -1,5 +1,5 @@
 <!-- 顶部装饰性标题区域 -->
-<div align="center" style="background-color: #0366d6; color: white; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
+<div align="center" style="background-color: #c0392b; color: white; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
   <h1 style="margin: 5px;">👋 Hi there, I'm Hongdao Meng</h1>
   <h3 style="margin: 5px;">A passionate full-stack developer from China</h3>
 </div>
@@ -21,7 +21,7 @@
 ### 🛠 Tech Stack
 
 <p align="center" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycroft-s&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mycroft-s&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="Top Languages"/>
 </p>
 
 <p align="center" style="margin: 5px;">
@@ -36,15 +36,15 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mycroft-s&show_icons=true&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mycroft-s&hide_border=true&background=fffaf0&ring=f1c40f&fire=f1c40f&currStreakNum=c0392b&sideNums=c0392b" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 <p align="center" style="margin: 5px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mycroft-s&hide_border=true&bg_color=ffffff&color=0366d6&line=0366d6&point=0366d6" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mycroft-s&hide_border=true&bg_color=fffaf0&color=c0392b&line=c0392b&point=c0392b" alt="Activity Graph" />
 </p>
 
 <hr style="border: none; margin: 5px auto;">
@@ -64,12 +64,12 @@
   <tr>
     <td width="50%" align="center" style="padding: 0 5px;">
       <a href="https://github.com/Mycroft-s/image_and_audio_deepfakededtection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="image_and_audio_deepfakededtection"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=image_and_audio_deepfakededtection&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="image_and_audio_deepfakededtection"/>
       </a>
     </td>
     <td width="50%" align="center" style="padding: 0 5px;">
       <a href="https://github.com/Mycroft-s/Vertical-Federated-MVML-methods">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="Vertical-Federated-MVML-methods"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycroft-s&repo=Vertical-Federated-MVML-methods&hide_border=true&bg_color=fffaf0&title_color=c0392b&text_color=2c3e50&icon_color=f1c40f" alt="Vertical-Federated-MVML-methods"/>
       </a>
     </td>
   </tr>
@@ -78,5 +78,5 @@
 <hr style="border: none; margin: 5px auto;">
 
 <p align="center" style="margin: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=Mycroft-s&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mycroft-s&color=f1c40f&style=flat-square" alt="Profile Views"/>
 </p>
