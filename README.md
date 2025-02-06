@@ -27,7 +27,16 @@
   <a href="https://www.instagram.com/mycrofthd/">
     <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
   </a>
+  &#8287;&#8287;
+  <a href="https://www.xiaohongshu.com/user/profile/60269c88000000000100ab82">
+    <img width="32" alt="Xiaohongshu" title="Xiaohongshu" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/xiaohongshu.svg" />
+  </a>
+  &#8287;&#8287;
+  <a href="https://space.bilibili.com/66771970?spm_id_from=333.1387.0.0">
+    <img width="32" alt="Bilibili" title="Bilibili" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bilibili.svg" />
+  </a>
 </p>
+
 
 
 
