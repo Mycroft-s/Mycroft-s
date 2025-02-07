@@ -173,5 +173,8 @@ Seeking SDE/MLE intern for 2025 summer.<br>
 </details>
 
 <br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mycroft-s&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 
