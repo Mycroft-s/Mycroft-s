@@ -39,7 +39,7 @@
 <!-- Third-person Self Introduction -->
 <p align="left">
 A first year graduate student in the NYU Tandon who majors in Computer Science.<br>
-Seeking SDE/MLE intern for 2025 summer.<br>
+Seeking SDE/MLE intern for 2025 summer. You can find more in menghongdao.com <br>
 🔭 Hongdao Meng is a Master’s student in Computer Science at New York University, specializing in machine learning, data engineering, and software development.<br>
 🔬 He has professional experience in Multiview Multilabel Machine Learning, RAG systems, developing AI solutions, and leading DeepFake detection projects—demonstrating a proven track record of innovation.<br>
 📚 His research on federated learning and multi-view classification has been published in IEEE Transactions on Big Data. (<a href="https://ieeexplore.ieee.org/document/10816109" target="_blank">Link</a>)<br>
