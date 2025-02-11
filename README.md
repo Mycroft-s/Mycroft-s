@@ -23,9 +23,7 @@
     <img width="32" alt="Email" title="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
   </a>
   &#8287;&#8287;
-  <a href="https://www.instagram.com/mycrofthd/">
-    <img width="32" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
-  </a>
+  
   &#8287;&#8287;
   <a href="https://www.xiaohongshu.com/user/profile/60269c88000000000100ab82">
   <img width="32" alt="Xiaohongshu" title="Xiaohongshu" src="https://cdn.jsdelivr.net/npm/simple-icons@8.15.0/icons/wegame.svg" />
