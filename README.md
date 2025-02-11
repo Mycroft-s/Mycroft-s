@@ -23,15 +23,10 @@
     <img width="32" alt="Email" title="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
   </a>
   &#8287;&#8287;
-  
-  &#8287;&#8287;
   <a href="https://www.xiaohongshu.com/user/profile/60269c88000000000100ab82">
   <img width="32" alt="Xiaohongshu" title="Xiaohongshu" src="https://cdn.jsdelivr.net/npm/simple-icons@8.15.0/icons/wegame.svg" />
 </a>
   &#8287;&#8287;
-  <a href="https://space.bilibili.com/66771970?spm_id_from=333.1387.0.0">
-    <img width="32" alt="Bilibili" title="Bilibili" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bilibili.svg" />
-  </a>
 </p>
 
 <!-- Third-person Self Introduction -->
